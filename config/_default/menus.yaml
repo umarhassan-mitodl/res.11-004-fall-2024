@@ -1,0 +1,9 @@
+leftnav:
+- identifier: e7e030d2-fb77-4093-9071-55763d826a83
+  name: Description
+  pageRef: /pages/description
+  weight: 10
+- identifier: d724b09d-3ffc-4b12-88bd-659e059493b7
+  name: Session Videos
+  pageRef: /video_galleries/videos
+  weight: 20
