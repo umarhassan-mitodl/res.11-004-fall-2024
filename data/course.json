@@ -41,14 +41,15 @@
     "website": "facilitative-leadership-in-the-public-sector"
   },
   "course_title": "Facilitative Leadership in the Public Sector",
-  "hide_download": false,
+  "hide_download": true,
   "mit_learn_topics": [],
-  "course_description": "This four-part dinner series was created by Prof. Lawrence Susskind at the request of a group of students in MIT's Department of Urban Studies and Planning ({{% resource_link \"1015a43c-715c-471e-a6ef-4c5e374b11d3\" \"DUSP\" %}}) who felt the need for a graduate-level leadership course that would be attuned specifically to the needs of public sector professionals.\n\nThe trailer and session videos may be freely viewed, downloaded, and reused under MIT OpenCourseWare's {{% resource_link \"7be6431a-00a0-4e3b-88ee-84261ba684ad\" \"Creative Commons BY-NC-SA\" %}}\u00a0license.",
+  "course_description": "This four-part dinner series was created by Prof. Lawrence Susskind at the request of a group of students in MIT's Department of Urban Studies and Planning ([DUSP](https://dusp.mit.edu/)) who felt the need for a graduate-level leadership course that would be attuned specifically to the needs of public sector professionals.\n\nThe trailer and session videos may be freely viewed, downloaded, and reused under MIT OpenCourseWare's [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)\u00a0license.",
   "department_numbers": [
     "11"
   ],
   "extra_course_numbers": "",
   "primary_course_number": "RES.11-004",
+  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Videos",
     "Workshop Videos"
