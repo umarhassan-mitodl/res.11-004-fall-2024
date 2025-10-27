@@ -7,10 +7,10 @@ file_size: 42258
 file_type: image/jpeg
 image_metadata:
   caption: 'An event for intergenerational dialogue, held as part of World Water Week
-    in 2013. (Photo by Thomas Henrikson, courtesy of [worldwaterweek](https://www.flickr.com/photos/53569401@N04/9678933084)
-    on Flickr. License: CC BY.)'
-  credit: '(Photo by Thomas Henrikson, courtesy of [worldwaterweek](https://www.flickr.com/photos/53569401@N04/9678933084)
-    on Flickr. License: CC BY.)'
+    in 2013. (Photo by Thomas Henrikson, courtesy of {{% resource_link "ed32c199-dffa-4352-97d6-fabc5b2dc993"
+    "worldwaterweek" %}} on Flickr. License: CC BY.)'
+  credit: '(Photo by Thomas Henrikson, courtesy of {{% resource_link "ed32c199-dffa-4352-97d6-fabc5b2dc993"
+    "worldwaterweek" %}} on Flickr. License: CC BY.)'
   image-alt: A group of younger and older adults of different races and genders, sitting
     around a circular table, with others watching from chairs around the periphery.
 learning_resource_types: []
